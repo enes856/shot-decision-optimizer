@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+
+# Environment files
+.env
+.env.*
+
+# VS Code
+.vscode/
+
+# Jupyter notebooks cache
+.ipynb_checkpoints/
+
+# Data
+data/
+
+# macOS
+.DS_Store
+
+# SQLite databases (falls automatisch generiert)
+*.db
+
+# Parquet files
+*.parquet
+
+*.lock
+*.icloud
+
+/backup
